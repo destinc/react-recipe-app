@@ -1,0 +1,10 @@
+.another-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ingredients {
+    color: rgba(101, 241, 66, 0.5);
+    font-size: 20px;
+    
+}

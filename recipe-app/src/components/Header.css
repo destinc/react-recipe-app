@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    background-image: url("https://onthegas.org/wp-content/uploads/2017/03/T-fal-E765SC-Ultimate-Hard-Anodized-Titanum-review.jpg");
+    background-position: center center;
+    opacity: 0.75;
+    border-radius: 4px;
+    background-size: cover;
+    height: 200px;
+    background-repeat: no-repeat;
+}
