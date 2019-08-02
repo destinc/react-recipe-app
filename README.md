@@ -1,5 +1,5 @@
-React recipe app
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Recipe App
+
 
 http://destinc-recipe-app.surge.sh/
 
